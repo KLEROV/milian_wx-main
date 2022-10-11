@@ -1,0 +1,1 @@
+<view class="content"><view class="main"><image src="/static/homeImage/t3.png"></image><view>网络异常，请刷新试试～</view><button data-event-opts="{{[['tap',[['refresh',['$event']]]]]}}" bindtap="__e">刷新</button></view></view>

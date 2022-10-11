@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "觅恋",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "actor-list": "/pages/index/components/actorList"
+  }
+}

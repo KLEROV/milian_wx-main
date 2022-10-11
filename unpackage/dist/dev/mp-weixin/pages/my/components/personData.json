@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "image-cropper": "/common/invinbg-image-cropper"
+  }
+}

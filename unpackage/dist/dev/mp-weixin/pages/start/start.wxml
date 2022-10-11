@@ -1,0 +1,1 @@
+<view class="start data-v-cf5c8be8"><button class="btn data-v-cf5c8be8" type="default" data-event-opts="{{[['tap',[['getUserinfo',['$event']]]]]}}" bindtap="__e">登录授权</button><block wx:if="{{show}}"><home-guide vue-id="71e6087a-1" class="data-v-cf5c8be8" bind:__l="__l"></home-guide></block></view>

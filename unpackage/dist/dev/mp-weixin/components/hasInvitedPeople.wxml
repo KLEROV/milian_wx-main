@@ -1,0 +1,1 @@
+<view class="content"><view class="main"><image src="/static/myImage/invite.png"></image><view class="msg">{{"已绑定邀请人:"+name}}</view><view class="code">{{msg}}</view><button data-event-opts="{{[['tap',[['submit',['$event']]]]]}}" bindtap="__e">邀请好友</button></view></view>

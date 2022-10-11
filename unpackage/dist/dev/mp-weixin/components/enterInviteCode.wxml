@@ -1,0 +1,1 @@
+<view class="content"><view class="main"><image src="/static/myImage/invite.png"></image><input type="text" placeholder="输入邀请码" maxlength="6" data-event-opts="{{[['input',[['__set_model',['','value','$event',[]]]]]]}}" value="{{value}}" bindinput="__e"/><button data-event-opts="{{[['tap',[['submit',['$event']]]]]}}" bindtap="__e">立即绑定</button></view></view>

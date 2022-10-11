@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "persondata": "/pages/my/components/personData",
+    "bill": "/pages/my/components/bill",
+    "account": "/pages/my/components/accountNumber"
+  }
+}

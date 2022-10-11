@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "已搭讪",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "chat": "/components/chat"
+  }
+}
